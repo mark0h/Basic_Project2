@@ -23,3 +23,12 @@ var hide_spinner = function(){
 var show_spinner = function() {
 	$('#spinner').show();
 }
+
+// function hide_spinner(){
+// 	$('#spinner').hide();
+// }
+
+// function show_spinner() {
+// 	$('#spinner').show();
+// }
+
